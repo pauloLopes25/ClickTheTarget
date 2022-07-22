@@ -1,0 +1,42 @@
+
+
+body {
+    background-color: rgba(177, 113, 126, 0.89);
+}
+
+main {
+    background-color: lightgrey;
+}
+
+
+.target {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #808080;
+}
+
+.target:hover {
+    width: 17px;
+    height: 17px;
+}
+
+.goal-0 {
+    background-color: red;
+}
+
+
+.goal-0:hover {
+    background-color: rgb(30, 255, 0);
+    width: 100%;
+    height: 100%;
+}
+
+.goal-1 {
+    background-color: grey;
+}
+
+#login > p:after {
+    white-space: pre;
+    content: "\a \a This grid contains 16 x 10 cells, each with a target." " Your task is to click the highlighted target. Once you click it, \a the highlighted target moves around. \a \a" "If you click on the highlighted target, we count a success; if you click on any other target, we count a failure." "\a If you click in the space between targets, we count a mistake. Keep clicking until the sequence ends. \a\a\a" "Target: Red Color Square and on hovering, turns into a full green square \a" "Next-Target: Grey Color Square" "\a \a  ( We recommend you to use a mouse !!) ";
+}
+

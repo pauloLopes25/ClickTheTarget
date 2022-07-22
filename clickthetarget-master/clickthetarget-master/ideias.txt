@@ -1,0 +1,38 @@
+MENU INICIAL:
+
+Add texto explicativo - done
+Add preview           - impossible
+Add dica de usar rato - done
+
+NO JOGO:
+
+
+On hover aumentar o quadrado target para 100%
+On hover diminunui o quadrado not target para 1/3.
+
+Background-color: dark para focar na tabela do meio.
+
+Target Vermelho
+
+mudar a cor do target em onHover
+
+2º target vermelho claro
+
+3º target ( nao existe )
+
+Zoom a 100%
+
+Timer aparecer!
+
+
+ADICIONAR PORTOFÓLIO
+
+3.1 A Nossa Versão do Jogo
+
+3.2 Justificação das Alterações
+
+3.3 analise descrititiva
+
+3.4 relatorio analise inferencia/comaprartiva.
+
+
